@@ -1,0 +1,299 @@
+4000110;Instituto de Educación Secundaria;Abdera;Público;C/ Marisma  6;Adra;Adra;Almería;4770;950400711;SEC-BAC-CFGM-CFGS
+4000134;Instituto de Educación Secundaria;Gaviota;Público;C/ Estero  4;Adra;Adra;Almería;4770;671530641;SEC-BAC-CFGM-CFGS
+4700260;Instituto de Educación Secundaria;Aguadulce;Público;C/ Alhambra  11;Aguadulce;Roquetas de Mar;Almería;4720;950156742;SEC-BAC-CFGM-CFGS
+4005284;Instituto de Educación Secundaria;Martín García Ramos;Público;Ctra. de la Estación  8;Albox;Albox;Almería;4800;671569693;SEC-BAC-CFGM-EE-CFGS
+4004620;Instituto de Educación Secundaria;Al-Ándalus;Público;Paseo de la Caridad  125. Finca Santa Isabel;Almería;Almería;Almería;4008;950156936;SEC-BAC-CFGM-EE-CFGS
+4005958;Instituto de Educación Secundaria;Albaida;Público;Ctra. de Níjar  s/n. Bda. Los Molinos;Almería;Almería;Almería;4009;950156290;SEC-BAC-CFGM-CFGS
+4001163;Instituto de Educación Secundaria;Alhadra;Público;C/ de los Colegios  7;Almería;Almería;Almería;4009;950156930;SEC-BAC-CFGM-EE-CFGS
+4000699;Instituto de Educación Secundaria;Alhamilla;Público;Avda. García Lorca  130;Almería;Almería;Almería;4005;950156100;SEC-BAC-CFGM-EE-CFGS
+4001151;Instituto de Educación Secundaria;Celia Viñas;Público;C/ Javier Sanz  15;Almería;Almería;Almería;4004;950156151;SEC-BAC-CFGM-CFGS
+4004814;Instituto de Educación Secundaria;El Argar;Público;Paseo de la Caridad  125;Almería;Almería;Almería;4008;950156189;SEC-BAC-CFGM-CFGS
+4700326;Instituto de Educación Secundaria;Galileo;Público;Avda. del Mar  8;Almería;Almería;Almería;4007;671530946;SEC-BAC-CFGM-EE-CFGS
+4001187;Instituto de Educación Secundaria;Los Ángeles;Público;C/ Maestría  2;Almería;Almería;Almería;4008;671530970;SEC-BAC-CFGM-CFGS-ADU
+4002052;Instituto de Educación Secundaria;Jaroso;Público;Ctra. Nacional - 332  nº 25. Apdo. de correos 109;Cuevas del Almanzora;Cuevas del Almanzora;Almería;4610;950451705;SEC-BAC-CFGM-CFGS
+4700272;Instituto de Educación Secundaria;Fuente Nueva;Público;Avda. Príncipes de España  115;El Ejido;El Ejido;Almería;4700;950579927;SEC-BAC-CFGM-EE-CFGS
+4004826;Instituto de Educación Secundaria;Murgi;Público;Avda. Príncipes de España  17;El Ejido;El Ejido;Almería;4700;950579920;SEC-BAC-CFGM-CFGS
+4005363;Instituto de Educación Secundaria;Al-Bujaira;Público;Avda. Guillermo Reyna  37;Huércal-Overa;Huércal-Overa;Almería;4600;950451920;SEC-BAC-CFGM-CFGS
+4002714;Instituto de Educación Secundaria;Cura Valera;Público;Avda. Guillermo Reyna  35;Huércal-Overa;Huércal-Overa;Almería;4600;950451905;SEC-BAC-CFGM-EE-CFGS
+4700107;Instituto de Educación Secundaria;Sol de Portocarrero;Público;Ctra. de Níjar  Km 7;La Cañada de San Urbano;Almería;Almería;4120;950156950;SEC-BAC-CFGM-EE-CFGS
+4003135;Instituto de Educación Secundaria;Juan Rubio Ortiz;Público;Avda. de Andalucía  10;Macael;Macael;Almería;4867;950639570;SEC-BAC-CFGM-CFGS
+4700144;Instituto de Educación Secundaria;La Puebla;Público;Plaza Platón  5;Puebla de Vícar;Vícar;Almería;4738;950156726;SEC-BAC-CFGM-CFGS
+4700016;Instituto de Educación Secundaria;Turaniana;Público;Avda. de los Estudiantes  86;Roquetas de Mar;Roquetas de Mar;Almería;4740;950156721;SEC-BAC-CFGM-CFGS
+4700685;Instituto de Educación Secundaria;Santa María del Águila;Público;C/ Lisboa  s/n;Santa María del Águila;El Ejido;Almería;4710;950156876;SEC-BAC-CFGM-EE-CFGS
+4700351;Instituto de Educación Secundaria;Alto Almanzora;Público;C/ Huertas de la Polaca  14;Tíjola;Tíjola;Almería;4880;600167942;SEC-BAC-CFGM-CFGS
+4700508;Instituto de Educación Secundaria;José Marín;Público;C/ Dolores R. Sopeña  1;Vélez-Rubio;Vélez-Rubio;Almería;4820;950410034;SEC-BAC-CFGM-CFGS
+4004437;Instituto de Educación Secundaria;Alyanub;Público;C/ Mayor  58;Vera;Vera;Almería;4620;950451962;SEC-BAC-CFGM-CFGS
+11700342;Instituto de Educación Secundaria;El Getares;Público;Ctra. Getares  s/n. Urb. Villa Rosa;Algeciras;Algeciras;Cádiz;11207;956670823;SEC-BAC-CFGM-CFGS
+11000368;Instituto de Educación Secundaria;Isla Verde;Público;Ctra. de Cádiz-Málaga  s/n;Algeciras;Algeciras;Cádiz;11203;956660970;SEC-BAC-CFGM-CFGS
+11000371;Instituto de Educación Secundaria;Kursaal;Público;Avda. Virgen de Europa  4;Algeciras;Algeciras;Cádiz;11201;956670761;SEC-BAC-CFGM-CFGS
+11008446;Instituto de Educación Secundaria;Saladillo;Público;C/ Duque de Rivas  s/n;Algeciras;Algeciras;Cádiz;11207;956670813;SEC-BAC-CFGM-CFGS
+11008495;Instituto de Educación Secundaria;Torre Almirante;Público;Polígono del Rosario  s/n;Algeciras;Algeciras;Cádiz;11205;956655262;SEC-BAC-CFGM-CFGS
+11000381;Instituto de Educación Secundaria;Ventura Morón;Público;Plaza Joaquín Ibáñez  3;Algeciras;Algeciras;Cádiz;11203;956663200;SEC-BAC-CFGM-CFGS
+11700937;Instituto de Educación Secundaria;Guadalpeña;Público;C/ Francia  s/n;Arcos de la Frontera;Arcos de la Frontera;Cádiz;11630;956709993;SEC-BAC-CFGM-CFGS
+11000824;Instituto de Educación Secundaria;Trafalgar;Público;C/ Madrid  4;Barbate;Barbate;Cádiz;11160;956459579;SEC-BAC-CFGM-CFGS
+11700755;Instituto de Educación Secundaria;El Convento;Público;Plaza de las Monjas  5;Bornos;Bornos;Cádiz;11640;956709827;SEC-BAC-CFGM-EE-CFGS
+11001762;Instituto de Educación Secundaria;Columela;Público;C/ Barcelona  2;Cádiz;Cádiz;Cádiz;11006;956243233;SEC-BAC-CFGM-EE-CFGS
+11004556;Instituto de Educación Secundaria;Cornelio Balbo;Público;C/ Nuevo Mundo  s/n;Cádiz;Cádiz;Cádiz;11004;956243216;SEC-BAC-CFGM-EE-CFGS
+11700299;Instituto de Educación Secundaria;Drago;Público;C/ Marianista Cubillo  15;Cádiz;Cádiz;Cádiz;11008;956243686;SEC-BAC-CFGM-EE-CFGS
+11008501;Instituto de Educación Secundaria;Fernando Aguilar Quignon;Público;C/ Conil de la Frontera  3;Cádiz;Cádiz;Cádiz;11010;956243308;SEC-BAC-CFGM-CFGS
+11001828;Instituto de Educación Secundaria;Rafael Alberti;Público;C/ Amiel  s/n;Cádiz;Cádiz;Cádiz;11012;956243317;SEC-BAC-CFGM-EE-CFGS
+11700688;Instituto de Educación Secundaria;San Severiano;Público;Avda. San Severiano  8;Cádiz;Cádiz;Cádiz;11007;956243270;SEC-BAC-CFGM-CFGS
+11700354;Instituto de Educación Secundaria;Ciudad de Hércules;Público;C/ Cuba  2;Chiclana de la Frontera;Chiclana de la Frontera;Cádiz;11130;956243754;SEC-BAC-CFGM-EE-CFGS
+11007582;Instituto de Educación Secundaria;Pablo Ruiz Picasso;Público;Avda. de la Diputación  s/n;Chiclana de la Frontera;Chiclana de la Frontera;Cádiz;11130;956243747;SEC-BAC-CFGM-EE-CFGS
+11700445;Instituto de Educación Secundaria;José Luis Tejada Peluffo;Público;Avda. Guardia Civil  1;El Puerto de Santa María;El Puerto de Santa María;Cádiz;11500;956243707;SEC-BAC-CFGM-CFGS
+11004428;Instituto de Educación Secundaria;Mar de Cádiz;Público;Avda. Rafael Alberti  s/n;El Puerto de Santa María;El Puerto de Santa María;Cádiz;11500;956243128;SEC-BAC-CFGM-CFGS
+11004416;Instituto de Educación Secundaria;Pedro Muñoz Seca;Público;Avda. de la Estación  s/n;El Puerto de Santa María;El Puerto de Santa María;Cádiz;11500;956243945;SEC-BAC-CFGM-EE-CFGS
+11700603;Instituto de Educación Secundaria;Pintor Juan Lara;Público;Cmo. del Águila  6;El Puerto de Santa María;El Puerto de Santa María;Cádiz;11500;956243502;SEC-BAC-CFGM-CFGS
+11008525;Instituto de Educación Secundaria;Santo Domingo;Público;C/ Santo Domingo  29;El Puerto de Santa María;El Puerto de Santa María;Cádiz;11500;956243970;SEC-BAC-CFGM-CFGS
+11700160;Instituto de Educación Secundaria;Almunia;Público;C/ Málaga  s/n. Bda. San Enrique;Jerez de la Frontera;Jerez de la Frontera;Cádiz;11405;956709924;SEC-BAC-CFGM-CFGS
+11008513;Instituto de Educación Secundaria;Andrés Benítez;Público;C/ Doctor Fléming  s/n. Polígono de San Benito;Jerez de la Frontera;Jerez de la Frontera;Cádiz;11407;856811510;SEC-BAC-CFGM-CFGS
+11007387;Instituto de Educación Secundaria;Asta Regia;Público;Avda. Moreno Mendoza  4;Jerez de la Frontera;Jerez de la Frontera;Cádiz;11408;856586113;SEC-BAC-CFGM-CFGS
+11007922;Instituto de Educación Secundaria;Francisco Romero Vargas;Público;Avda. Moreno Mendoza  s/n;Jerez de la Frontera;Jerez de la Frontera;Cádiz;11408;956709917;SEC-BAC-CFGM-CFGS
+11003230;Instituto de Educación Secundaria;La Granja;Público;Avda. de Europa  s/n;Jerez de la Frontera;Jerez de la Frontera;Cádiz;11405;856811933;SEC-BAC-CFGM-CFGS
+11700172;Instituto de Educación Secundaria;Santa Isabel de Hungría;Público;C/ La Merced  40;Jerez de la Frontera;Jerez de la Frontera;Cádiz;11404;856811856;SEC-BAC-CFGM-CFGS
+11700184;Instituto de Educación Secundaria;Hozgarganta;Público;Avda. de los Deportes  32;Jimena de la Frontera;Jimena de la Frontera;Cádiz;11330;956670517;SEC-BAC-CFGM-CFGS
+11701152;Instituto de Educación Secundaria;Antonio Machado;Público;C/ Blanca de los Ríos  87;La Línea de la Concepción;La Línea de la Concepción;Cádiz;11300;956670738;SEC-BAC-CFGM-CFGS
+11003874;Instituto de Educación Secundaria;Mediterráneo;Público;Avda. María Auxiliadora  16;La Línea de la Concepción;La Línea de la Concepción;Cádiz;11300;956670957;SEC-BAC-CFGM-CFGS
+11003886;Instituto de Educación Secundaria;Virgen de la Esperanza;Público;Avda. La Banqueta  10-12;La Línea de la Concepción;La Línea de la Concepción;Cádiz;11300;956670246;SEC-BAC-CFGM-CFGS
+11700561;Instituto de Educación Secundaria;Sierra Luna;Público;Avda. de Doña Rosa García  8;Los Barrios;Los Barrios;Cádiz;11370;956670745;SEC-BAC-CFGM-CFGS
+11007910;Instituto de Educación Secundaria;San Juan de Dios;Público;Plaza San Juan de Dios  s/n;Medina-Sidonia;Medina-Sidonia;Cádiz;11170;956418924;SEC-BAC-CFGM-CFGS
+11004039;Instituto de Educación Secundaria;Sidón;Público;Avda. Azocarrem  s/n;Medina-Sidonia;Medina-Sidonia;Cádiz;11170;956418902;SEC-BAC-CFGM-CFGS
+11006671;Instituto de Educación Secundaria;Zaframagón;Público;Avda. Manuel de Falla  s/n;Olvera;Olvera;Cádiz;11690;956128820;SEC-BAC-CFGM-CFGS
+11004672;Instituto de Educación Secundaria;Manuel de Falla;Público;Avda. Palestina  s/n;Puerto Real;Puerto Real;Cádiz;11510;956243537;SEC-BAC-CFGM-CFGS
+11004696;Instituto de Educación Secundaria;Virgen del Carmen;Público;Paseo  María Auxiliadora  s/n;Puerto Real;Puerto Real;Cádiz;11510;956243741;SEC-BAC-CFGM-CFGS
+11007533;Instituto de Educación Secundaria;Arroyo Hondo;Público;C/ Maestro  Manuel J. Casal Egea  2;Rota;Rota;Cádiz;11520;956243253;SEC-BAC-CFGM-CFGS
+11700147;Instituto de Educación Secundaria;La Bahía;Público;Avda. Constitución  s/n;San Fernando;San Fernando;Cádiz;11100;956243676;SEC-BAC-CFGM-CFGS
+11005275;Instituto de Educación Secundaria;Las Salinas;Público;Avda. Al-Andalus  s/n;San Fernando;San Fernando;Cádiz;11100;956243380;SEC-BAC-CFGM-EE-CFGS
+11008239;Instituto de Educación Secundaria;Sancti Petri;Público;Polígono La Magdalena  s/n;San Fernando;San Fernando;Cádiz;11100;956243610;SEC-BAC-CFGM-CFGS
+11007791;Instituto de Educación Secundaria;Carlos Castilla del Pino;Público;Avda. Castiella  5;San Roque;San Roque;Cádiz;11360;956670838;SEC-BAC-CFGM-CFGS
+11005639;Instituto de Educación Secundaria;Doñana;Público;Avda. de Huelva  s/n;Sanlúcar de Barrameda;Sanlúcar de Barrameda;Cádiz;11540;956361514;SEC-BAC-CFGM-CFGS
+11700585;Instituto de Educación Secundaria;Almadraba;Público;C/ Diego Piñero Moreno  1;Tarifa;Tarifa;Cádiz;11380;956670260;SEC-BAC-CFGM-EE-CFGS
+11006693;Instituto de Educación Secundaria;Las Cumbres;Público;C/ Las Cumbres  s/n. Apdo. 38;Ubrique;Ubrique;Cádiz;11600;956128911;SEC-BAC-CFGM-CFGS
+11006681;Instituto de Educación Secundaria;Ntra. Sra. de los Remedios;Público;Avda. Herrera Oria  s/n;Ubrique;Ubrique;Cádiz;11600;956128903;SEC-BAC-CFGM-CFGS
+11700597;Instituto de Educación Secundaria;La Janda;Público;C/ Zafra  s/n;Vejer de la Frontera;Vejer de la Frontera;Cádiz;11150;956459595;SEC-BAC-CFGM-EE-CFGS
+11007545;Instituto de Educación Secundaria;Castillo de Matrera;Público;C/ Sevilla  16;Villamartín;Villamartín;Cádiz;11650;671533701;SEC-BAC-CFGM-CFGS
+14000483;Instituto de Educación Secundaria;Luis Carrillo de Sotomayor;Público;Avda. San Carlos de Chile  s/n;Baena;Baena;Córdoba;14850;957699579;SEC-BAC-CFGM-EE-CFGS
+14000835;Instituto de Educación Secundaria;Felipe Solís Villechenous;Público;Avda. Fuente del Río  15;Cabra;Cabra;Córdoba;14940;957596928;SEC-BAC-CFGM-EE-CFGS
+14700286;Instituto de Educación Secundaria;Ángel de Saavedra;Público;Avda. Virgen de las Angustias  s/n;Córdoba;Córdoba;Córdoba;14006;957278661;SEC-BAC-CFGM-CFGS
+14007180;Instituto de Educación Secundaria;Blas Infante;Público;Plaza Platero Pedro de Bares  31 A;Córdoba;Córdoba;Córdoba;14007;957734531;SEC-BAC-CFGM-EE-CFGS
+14000707;Instituto de Educación Secundaria;El Tablero;Público;Avda. de la Arruzafilla  s/n;Córdoba;Córdoba;Córdoba;14011;957282248;SEC-BAC-CFGM-EE-CFGS
+14700146;Instituto de Educación Secundaria;Fidiana;Público;C/ Saturno  s/n;Córdoba;Córdoba;Córdoba;14014;957734990;SEC-BAC-CFGM-CFGS
+14007659;Instituto de Educación Secundaria;Galileo Galilei;Público;C/ Francisco Pizarro  16;Córdoba;Córdoba;Córdoba;14010;957734749;SEC-BAC-CFGM-CFGS
+14700079;Instituto de Educación Secundaria;Gran Capitán;Público;C/ Arcos de la Frontera  s/n;Córdoba;Córdoba;Córdoba;14014;957379710;SEC-BAC-CFGM-CFGS
+14007374;Instituto de Educación Secundaria;La Fuensanta;Público;Avda. Calderón de la Barca  s/n;Córdoba;Córdoba;Córdoba;14010;957750888;SEC-BAC-CFGM-EE-CFGS
+14002996;Instituto de Educación Secundaria;López Neyra;Público;Avda. del Mediterráneo  s/n;Córdoba;Córdoba;Córdoba;14011;957734976;SEC-BAC-CFGM-CFGS
+14002960;Instituto de Educación Secundaria;Luis de Góngora;Público;C/ Diego de León  2;Córdoba;Córdoba;Córdoba;14002;957734551;SEC-BAC-CFGM-CFGS
+14002923;Instituto de Educación Secundaria;Maimónides;Público;C/ Alfonso XIII  4;Córdoba;Córdoba;Córdoba;14001;957379971;SEC-BAC-CFGM-CFGS
+14008056;Instituto de Educación Secundaria;San Álvaro;Público;C/ Poeta Marcial  s/n;Córdoba;Córdoba;Córdoba;14009;957734967;SEC-BAC-CFGM-CFGS
+14007945;Instituto de Educación Secundaria;Trassierra;Público;C/ San Hermenegildo  s/n;Córdoba;Córdoba;Córdoba;14011;957734900;SEC-BAC-CFGM-CFGS
+14004889;Instituto de Educación Secundaria;Zoco;Público;C/ José María Martorell  s/n;Córdoba;Córdoba;Córdoba;14005;957379764;SEC-BAC-CFGM-CFGS
+14003551;Instituto de Educación Secundaria;Francisco de los Ríos;Público;Avda. Juan Carlos I  s/n;Fernán Núñez;Fernán Núñez;Córdoba;14520;957379590;SEC-BAC-CFGM-CFGS
+14003708;Instituto de Educación Secundaria;Lope de Vega;Público;Ctra. de Extremadura  s/n;Fuente Obejuna;Fuente Obejuna;Córdoba;14290;957579525;SEC-BAC-CFGM-CFGS
+14004105;Instituto de Educación Secundaria;Padre Juan Ruiz;Público;C/ Fray Luis de Granada  2;Hinojosa del Duque;Hinojosa del Duque;Córdoba;14270;957149933;SEC-BAC-CFGM-EE-CFGS
+14700298;Instituto de Educación Secundaria;Nuevas Poblaciones;Público;C/ La Salud  6;La Carlota;La Carlota;Córdoba;14100;957307521;SEC-BAC-CFGM-EE-CFGS
+14007404;Instituto de Educación Secundaria;Juan de Aréjula;Público;C/ Montemayor  11;Lucena;Lucena;Córdoba;14900;957596543;SEC-BAC-CFGM-CFGS
+14004580;Instituto de Educación Secundaria;Marqués de Comares;Público;C/ Juego de Pelota  54;Lucena;Lucena;Córdoba;14900;957596915;SEC-BAC-CFGM-EE-CFGS
+14005882;Instituto de Educación Secundaria;Sierra de Aras;Público;C/ María Zambrano  s/n;Lucena;Lucena;Córdoba;14900;957596740;SEC-BAC-CFGM-EE-CFGS
+14004828;Instituto de Educación Secundaria;Emilio Canalejo Olmeda;Público;Avda. del Trabajo  24;Montilla;Montilla;Córdoba;14550;957699941;SEC-BAC-CFGM-CFGS
+14004841;Instituto de Educación Secundaria;Inca Garcilaso;Público;Avda. de la Constitución  14;Montilla;Montilla;Córdoba;14550;957699600;SEC-BAC-CFGM-EE-CFGS
+14004971;Instituto de Educación Secundaria;Antonio Galán Acosta;Público;C/ Llanete de los Moros  s/n;Montoro;Montoro;Córdoba;14600;957199904;SEC-BAC-CFGM-CFGS
+14005298;Instituto de Educación Secundaria;Antonio Gala;Público;Avda. de la Paz  s/n;Palma del Río;Palma del Río;Córdoba;14700;957719925;SEC-BAC-CFGM-EE-CFGS
+14005501;Instituto de Educación Secundaria;Alto Guadiato;Público;Ronda del Guadiato  s/n;Peñarroya-Pueblonuevo;Peñarroya-Pueblonuevo;Córdoba;14200;957579518;SEC-BAC-CFGM-EE-CFGS
+14005493;Instituto de Educación Secundaria;Florencio Pintado;Público;C/ Romero Robledo  17;Peñarroya-Pueblonuevo;Peñarroya-Pueblonuevo;Córdoba;14200;957579538;SEC-BAC-CFGM-CFGS
+14005560;Instituto de Educación Secundaria;Aljanadic;Público;C/ Almodóvar del Río  s/n;Posadas;Posadas;Córdoba;14730;957719541;SEC-BAC-CFGM-CFGS
+14007684;Instituto de Educación Secundaria;Antonio María Calero;Público;Avda. Marcos Redondo  s/n;Pozoblanco;Pozoblanco;Córdoba;14400;957139550;SEC-BAC-CFGM-CFGS
+14005663;Instituto de Educación Secundaria;Los Pedroches;Público;C/ Marcos Redondo  s/n;Pozoblanco;Pozoblanco;Córdoba;14400;957139546;SEC-BAC-CFGM-CFGS
+14005936;Instituto de Educación Secundaria;Álvarez Cubero;Público;Avda. Niceto Alcalá-Zamora  s/n;Priego de Córdoba;Priego de Córdoba;Córdoba;14800;957540040;SEC-BAC-CFGM-EE-CFGS
+14005912;Instituto de Educación Secundaria;Fernando III El Santo;Público;Avda. de España  83;Priego de Córdoba;Priego de Córdoba;Córdoba;14800;957540418;SEC-BAC-CFGM-CFGS
+14007350;Instituto de Educación Secundaria;Ingeniero Juan de la Cierva;Público;C/ Cortes Españolas  s/n;Puente Genil;Puente Genil;Córdoba;14500;957618906;SEC-BAC-CFGM-EE-CFGS
+14006217;Instituto de Educación Secundaria;Manuel Reina;Público;C/ Cristóbal del Castillo  2;Puente Genil;Puente Genil;Córdoba;14500;957618579;SEC-BAC-CFGM-EE-CFGS
+18000601;Instituto de Educación Secundaria;Antigua Sexi;Público;C/ Lo Colorado  s/n;Almuñécar;Almuñécar;Granada;18690;958649590;SEC-BAC-CFGM-CFGS
+18000787;Instituto de Educación Secundaria;Luis Bueno Crespo;Público;Avda. de Las Palmeras  s/n;Armilla;Armilla;Granada;18100;958893739;SEC-BAC-CFGM-CFGS
+18000908;Instituto de Educación Secundaria;Iliberis;Público;Avda. Andalucía  84;Atarfe;Atarfe;Granada;18230;958893993;SEC-BAC-CFGM-EE-CFGS
+18009407;Instituto de Educación Secundaria;Vega de Atarfe;Público;Avda. Diputación  s/n;Atarfe;Atarfe;Granada;18230;958893937;SEC-BAC-CFGM-CFGS
+18001123;Instituto de Educación Secundaria;Pedro Jiménez Montoya;Público;C/ Isaac Peral  2;Baza;Baza;Granada;18800;958869905;SEC-BAC-CFGM-EE-CFGS
+18002243;Instituto de Educación Secundaria;Federico García Lorca;Público;C/ San Ramón  10;Churriana de la Vega;Churriana de la Vega;Granada;18194;958893827;SEC-BAC-CFGM-CFGS
+18001834;Instituto de Educación Secundaria;Emilio Muñoz;Público;Pago de Catacena  s/n;Cogollos Vega;Cogollos Vega;Granada;18197;958893727;SEC-BAC-CFGM-CFGS
+18009419;Instituto de Educación Secundaria;Valle de Lecrín;Público;C/ Arenillas  s/n;Dúrcal;Dúrcal;Granada;18650;958779926;SEC-BAC-CFGM-CFGS
+18700372;Instituto de Educación Secundaria;Montevives;Público;C/ Haití  s/n;Gabia Grande;Las Gabias;Granada;18110;958893678;SEC-BAC-CFGM-EE-CFGS
+18009389;Instituto de Educación Secundaria;Albayzín;Público;C/ Camino de San Antonio  s/n;Granada;Granada;Granada;18011;958283863;SEC-BAC-CFGM-CFGS
+18004276;Instituto de Educación Secundaria;Ángel Ganivet;Público;C/ Santa Bárbara  15;Granada;Granada;Granada;18001;958893353;SEC-BAC-CFGM-CFGS
+18008841;Instituto de Educación Secundaria;Cartuja;Público;C/ Julio Moreno Dávila  18;Granada;Granada;Granada;18011;958893286;SEC-BAC-CFGM-EE-CFGS
+18700293;Instituto de Educación Secundaria;Francisco Ayala;Público;Avda. Francisco Ayala  s/n;Granada;Granada;Granada;18014;958893750;SEC-BAC-CFGM-EE-CFGS
+18004291;Instituto de Educación Secundaria;Padre Manjón;Público;C/ Gonzalo Gallas  s/n;Granada;Granada;Granada;18003;958893493;SEC-BAC-CFGM-CFGS
+18700037;Instituto de Educación Secundaria;Pedro Soto de Rojas;Público;C/ Torre de los Picos  2;Granada;Granada;Granada;18008;958893300;SEC-BAC-CFGM-EE-CFGS
+18004288;Instituto de Educación Secundaria;Politécnico Hermenegildo Lanz;Público;C/ Albondón  7;Granada;Granada;Granada;18003;958893230;SEC-BAC-CFGM-CFGS
+18004458;Instituto de Educación Secundaria;Virgen de las Nieves;Público;Avda. de Andalucía  38;Granada;Granada;Granada;18014;958893380;SEC-BAC-CFGM-CFGS
+18700098;Instituto de Educación Secundaria;Zaidín-Vergeles;Público;C/ Primavera  26-28;Granada;Granada;Granada;18008;958893850;SEC-BAC-CFGM-CFGS
+18009213;Instituto de Educación Secundaria;Acci;Público;Avda. Buenos Aires  68;Guadix;Guadix;Granada;18500;958699912;SEC-BAC-CFGM-CFGS
+18004801;Instituto de Educación Secundaria;Padre Poveda;Público;Avda. Mariana Pineda  s/n;Guadix;Guadix;Granada;18500;958660620;SEC-BAC-CFGM-CFGS
+18005141;Instituto de Educación Secundaria;La Sagra;Público;Avda. Granada  s/n;Huéscar;Huéscar;Granada;18830;958729914;SEC-BAC-CFGM-CFGS
+18700301;Instituto de Educación Secundaria;Américo Castro;Público;C/ Eras Bajas  s/n;Huétor Tájar;Huétor Tájar;Granada;18360;958333098;SEC-BAC-CFGM-CFGS
+18700475;Instituto de Educación Secundaria;Montes Orientales;Público;Ctra. de la Sierra  15;Iznalloz;Iznalloz;Granada;18550;958384060;SEC-BAC-CFGM-EE-CFGS
+18005992;Instituto de Educación Secundaria;Moraima;Público;Ctra. de Priego  s/n;Loja;Loja;Granada;18300;958338632;SEC-BAC-CFGM-CFGS
+18700426;Instituto de Educación Secundaria;Francisco Giner de los Ríos;Público;C/ La matraquilla  5;Motril;Motril;Granada;18600;958649988;SEC-BAC-CFGM-CFGS
+18007046;Instituto de Educación Secundaria;Francisco Javier de Burgos;Público;Avda. González Carrascosa  s/n;Motril;Motril;Granada;18600;958649903;SEC-BAC-CFGM-EE-CFGS
+18007022;Instituto de Educación Secundaria;La Zafra;Público;C/ Menéndez y Pelayo  40;Motril;Motril;Granada;18600;958649941;SEC-BAC-CFGM-EE-CFGS
+18700761;Instituto de Educación Secundaria;Alpujarra;Público;Avda. Lora Tamayo  s/n;Órgiva;Órgiva;Granada;18400;958779900;SEC-BAC-CFGM-EE-CFGS
+18009444;Instituto de Educación Secundaria;Hispanidad;Público;C/ Celestino Mutis  1;Santa Fe;Santa Fe;Granada;18320;671533270;SEC-BAC-CFGM-CFGS
+21700654;Instituto de Educación Secundaria;Doñana;Público;Avda. de la Juventud  s/n;Almonte;Almonte;Huelva;21730;959439951;SEC-BAC-CFGM-EE-CFGS
+21700381;Instituto de Educación Secundaria;San Blas;Público;Plaza Doña Elvira Embid  s/n;Aracena;Aracena;Huelva;21200;959126235;SEC-BAC-CFGM-CFGS
+21700502;Instituto de Educación Secundaria;Guadiana;Público;C/ Doctor Severo Ochoa  s/n;Ayamonte;Ayamonte;Huelva;21400;959349932;SEC-BAC-CFGM-EE-CFGS
+21000693;Instituto de Educación Secundaria;Delgado Hernández;Público;C/ Dalí  1;Bollullos Par del Condado;Bollullos Par del Condado;Huelva;21710;959439921;SEC-BAC-CFGM-CFGS
+21000899;Instituto de Educación Secundaria;Rafael Reyes;Público;Ctra. Huelva-Ayamonte  s/n;Cartaya;Cartaya;Huelva;21450;959489649;SEC-BAC-CFGM-CFGS
+21001995;Instituto de Educación Secundaria;Alto Conquero;Público;Avda. Manuel Siurot  36;Huelva;Huelva;Huelva;21002;959524860;SEC-BAC-CFGM-EE-CFGS
+21001909;Instituto de Educación Secundaria;Diego de Guzmán y Quesada;Público;Avda. Manuel Siurot  11;Huelva;Huelva;Huelva;21004;959524835;SEC-BAC-CFGM-CFGS
+21003712;Instituto de Educación Secundaria;Fuentepiña;Público;C/ Camino del Saladillo  s/n;Huelva;Huelva;Huelva;21007;959524521;SEC-BAC-CFGM-EE-CFGS
+21003980;Instituto de Educación Secundaria;José Caballero;Público;C/ Tráfico Pesado  s/n. Apdo. 1200;Huelva;Huelva;Huelva;21004;959524155;SEC-BAC-CFGM-CFGS
+21002011;Instituto de Educación Secundaria;La Marisma;Público;Avda. Santa Marta  s/n;Huelva;Huelva;Huelva;21005;959524867;SEC-BAC-CFGM-EE-CFGS
+21700058;Instituto de Educación Secundaria;Pablo Neruda;Público;C/ Doctor Rubio  1;Huelva;Huelva;Huelva;21002;959524246;SEC-BAC-CFGM-CFGS
+21001922;Instituto de Educación Secundaria;Pintor Pedro Gómez;Público;Avda. Manuel Siurot  40;Huelva;Huelva;Huelva;21002;959524850;SEC-BAC-CFGM-CFGS
+21700010;Instituto de Educación Secundaria;San Sebastián;Público;Avda. de Andalucía  s/n;Huelva;Huelva;Huelva;21004;959524177;SEC-BAC-CFGM-CFGS
+21002100;Instituto de Educación Secundaria;Padre José Miravent;Público;C/ Emiliano Cabot  22;Isla Cristina;Isla Cristina;Huelva;21410;959349582;SEC-BAC-CFGM-CFGS
+21700460;Instituto de Educación Secundaria;La Palma;Público;Paseo de los Estudiantes  s/n;La Palma del Condado;La Palma del Condado;Huelva;21700;600141643;SEC-BAC-CFGM-EE-CFGS
+21700630;Instituto de Educación Secundaria;La Arboleda;Público;Avda. de la Arboleda  s/n;Lepe;Lepe;Huelva;21440;959489904;SEC-BAC-CFGM-EE-CFGS
+21700290;Instituto de Educación Secundaria;Cuenca Minera;Público;Avda. Juan Ramón Jiménez  s/n;Minas de Riotinto;Minas de Riotinto;Huelva;21660;671538687;SEC-BAC-CFGM-CFGS
+21002483;Instituto de Educación Secundaria;Vázquez Díaz;Público;C/ Cerro los Baños  s/n;Nerva;Nerva;Huelva;21670;959598545;SEC-BAC-CFGM-CFGS
+21700307;Instituto de Educación Secundaria;Saltés;Público;C/ Pintor José Caballero  s/n;Punta Umbría;Punta Umbría;Huelva;21100;600141287;SEC-BAC-CFGM-CFGS
+21002951;Instituto de Educación Secundaria;Don Bosco;Público;C/ Diputación  s/n;Valverde del Camino;Valverde del Camino;Huelva;21600;959559520;SEC-BAC-CFGM-CFGS
+23000106;Instituto de Educación Secundaria;Alfonso XI;Público;C/ Maestro Pascual Baca  2;Alcalá la Real;Alcalá la Real;Jaén;23680;953599534;SEC-BAC-CFGM-CFGS
+23000246;Instituto de Educación Secundaria;Salvador Serrano;Público;Parque Parque de la Fuensanta  2;Alcaudete;Alcaudete;Jaén;23660;953366963;SEC-BAC-CFGM-EE-CFGS
+23005694;Instituto de Educación Secundaria;Jándula;Público;Ctra. de los Villares  s/n;Andújar;Andújar;Jaén;23740;953539508;SEC-BAC-CFGM-CFGS
+23000556;Instituto de Educación Secundaria;Nuestra Señora de la Cabeza;Público;C/ Argimiro Rodríguez Álvarez  s/n;Andújar;Andújar;Jaén;23740;953539525;SEC-BAC-CFGM-CFGS
+23000830;Instituto de Educación Secundaria;Andrés de Vandelvira;Público;C/ Garnica  3;Baeza;Baeza;Jaén;23440;953779908;SEC-BAC-CFGM-EE-CFGS
+23000817;Instituto de Educación Secundaria;Santísima Trinidad;Público;C/ Juan de Ávila  2;Baeza;Baeza;Jaén;23440;953779522;SEC-BAC-CFGM-CFGS
+23700840;Instituto de Educación Secundaria;María Bellido;Público;C/ Juan Salcedo Guillén  s/n;Bailén;Bailén;Jaén;23710;953609535;SEC-BAC-CFGM-CFGS
+23001111;Instituto de Educación Secundaria;Castillo de la Yedra;Público;C/ Cruz de Orea  57;Cazorla;Cazorla;Jaén;23470;953711520;SEC-BAC-CFGM-EE-CFGS
+23005062;Instituto de Educación Secundaria;Auringis;Público;C/ Cerro de los Lirios  1;Jaén;Jaén;Jaén;23005;953366161;SEC-BAC-CFGM-CFGS
+23700271;Instituto de Educación Secundaria;El Valle;Público;Ctra. de Madrid  2;Jaén;Jaén;Jaén;23009;953366732;SEC-BAC-CFGM-EE-CFGS
+23002449;Instituto de Educación Secundaria;Las Fuentezuelas;Público;Avda. de Arjona  5;Jaén;Jaén;Jaén;23006;953366905;SEC-BAC-CFGM-CFGS
+23005529;Instituto de Educación Secundaria;San Juan Bosco;Público;C/ Millán de Priego  6;Jaén;Jaén;Jaén;23007;953366753;SEC-BAC-CFGM-CFGS
+23002401;Instituto de Educación Secundaria;Virgen del Carmen;Público;Paseo de la Estación  44;Jaén;Jaén;Jaén;23008;953366942;SEC-BAC-CFGM-EE-CFGS
+23001287;Instituto de Educación Secundaria;Martín Halaja;Público;Avda. de Madrid  s/n;La Carolina;La Carolina;Jaén;23200;953609944;SEC-BAC-CFGM-CFGS
+23005049;Instituto de Educación Secundaria;Pablo de Olavide;Público;C/ Buenavista  66;La Carolina;La Carolina;Jaén;23200;953609618;SEC-BAC-CFGM-CFGS
+23005141;Instituto de Educación Secundaria;Cástulo;Público;C/ San Cristóbal  s/n;Linares;Linares;Jaén;23700;953609828;SEC-BAC-CFGM-CFGS
+23700281;Instituto de Educación Secundaria;Oretania;Público;C/ Fernando de Herrera  8;Linares;Linares;Jaén;23700;953609851;SEC-BAC-CFGM-EE-CFGS
+23002851;Instituto de Educación Secundaria;Reyes de España;Público;Avda. San Cristóbal  s/n;Linares;Linares;Jaén;23700;953609862;SEC-BAC-CFGM-CFGS
+23700293;Instituto de Educación Secundaria;Virgen de la Cabeza;Público;C/ Calvario 146;Marmolejo;Marmolejo;Jaén;23770;953539933;SEC-BAC-CFGM-EE-CFGS
+23003119;Instituto de Educación Secundaria;Fernando III;Público;Parque Manuel Carrasco  s/n;Martos;Martos;Jaén;23600;953366628;SEC-BAC-CFGM-CFGS
+23003132;Instituto de Educación Secundaria;San Felipe Neri;Público;C/ Río Jandula  1;Martos;Martos;Jaén;23600;953366810;SEC-BAC-CFGM-EE-CFGS
+23700414;Instituto de Educación Secundaria;Villa de Santiago;Público;C/ Postigos  s/n;Santiago de la Espada;Santiago-Pontones;Jaén;23290;953429505;SEC-BAC-CFGM-CFGS
+23700335;Instituto de Educación Secundaria;Acebuche;Público;C/ Antonio Machado  4;Torredonjimeno;Torredonjimeno;Jaén;23650;671537996;SEC-BAC-CFGM-CFGS
+23004264;Instituto de Educación Secundaria;Los Cerros;Público;C/ Cronista Juan de la Torre  s/n;Úbeda;Úbeda;Jaén;23400;953779990;SEC-BAC-CFGM-EE-CFGS
+23700864;Instituto de Educación Secundaria;Sierra de las Villas;Público;Ctra. de Mogón  s/n;Villacarrillo;Villacarrillo;Jaén;23300;953429606;SEC-BAC-CFGM-EE-CFGS
+29000529;Instituto de Educación Secundaria;Antonio Gala;Público;C/ Giner de los Ríos  s/n;Alhaurín el Grande;Alhaurín el Grande;Málaga;29120;951269928;SEC-BAC-CFGM-EE-CFGS
+29012052;Instituto de Educación Secundaria;Los Colegiales;Público;Paseo de los Colegiales  s/n;Antequera;Antequera;Málaga;29200;952712500;SEC-BAC-CFGM-CFGS
+29001145;Instituto de Educación Secundaria;Pedro Espinosa;Público;C/ Carrera  12;Antequera;Antequera;Málaga;29200;952712963;SEC-BAC-CFGM-CFGS
+29010857;Instituto de Educación Secundaria;Pintor José María Fernández;Público;Ctra. de Málaga  8;Antequera;Antequera;Málaga;29200;952712991;SEC-BAC-CFGM-EE-CFGS
+29009892;Instituto de Educación Secundaria;Al-Baytar;Público;Avda. Erasa  s/n. Urb. Béjar;Arroyo de la Miel-Benalmádena Costa;Benalmádena;Málaga;29639;951293825;SEC-BAC-CFGM-CFGS
+29012064;Instituto de Educación Secundaria;Arroyo de la Miel;Público;Avda. Inmaculada Concepción  s/n;Arroyo de la Miel-Benalmádena Costa;Benalmádena;Málaga;29631;951297980;SEC-BAC-CFGM-EE-CFGS
+29700621;Instituto de Educación Secundaria;Cerro del Viento;Público;Avda. del Cerro del Viento  11;Arroyo de la Miel-Benalmádena Costa;Benalmádena;Málaga;29630;951298727;SEC-BAC-CFGM-CFGS
+29700011;Instituto de Educación Secundaria;Campanillas;Público;Bda. Campanillas;Campanillas;Málaga;Málaga;29590;951298460;SEC-BAC-CFGM-EE-CFGS
+29700631;Instituto de Educación Secundaria;Valle del Azahar;Público;C/ Pitágoras 2;Cártama;Cártama;Málaga;29580;951269502;SEC-BAC-CFGM-CFGS
+29700357;Instituto de Educación Secundaria;Jacaranda;Público;C/ Gaspar Sanz  1. Urb. Platero;Churriana;Málaga;Málaga;29140;951293816;SEC-BAC-CFGM-CFGS
+29002332;Instituto de Educación Secundaria;Ciudad de Coín;Público;C/ Urbano Pineda  s/n;Coín;Coín;Málaga;29100;951268500;SEC-BAC-CFGM-EE-CFGS
+29009909;Instituto de Educación Secundaria;Mar de Alborán;Público;C/ Fuente de María Gil  30;Estepona;Estepona;Málaga;29680;951270969;SEC-BAC-CFGM-CFGS
+29002885;Instituto de Educación Secundaria;Monterroso;Público;Avda. Santo Tomás de Aquino  s/n;Estepona;Estepona;Málaga;29680;952795802;SEC-BAC-CFGM-CFGS
+29003041;Instituto de Educación Secundaria;Fuengirola Nº 1;Público;C/ Camino de Santiago  3;Fuengirola;Fuengirola;Málaga;29640;951269967;SEC-BAC-CFGM-CFGS
+29700497;Instituto de Educación Secundaria;Los Boliches;Público;C/ Frascuelo  s/n;Fuengirola;Fuengirola;Málaga;29640;951269910;SEC-BAC-CFGM-CFGS
+29009910;Instituto de Educación Secundaria;Santiago Ramón y Cajal;Público;C/ Doctor García Verdugo  1;Fuengirola;Fuengirola;Málaga;29640;951269821;SEC-BAC-CFGM-EE-CFGS
+29007329;Instituto de Educación Secundaria;Vega de Mijas;Público;C/ Don Antonio García Moreno  5;Las Lagunas;Mijas;Málaga;29651;951268758;SEC-BAC-CFGM-EE-CFGS
+29012076;Instituto de Educación Secundaria;Ben Gabirol;Público;C/ Agustín Martín Carrión  6;Málaga;Málaga;Málaga;29006;951298509;SEC-BAC-CFGM-EE-CFGS
+29005977;Instituto de Educación Secundaria;Cánovas del Castillo;Público;C/ San Millán  s/n;Málaga;Málaga;Málaga;29013;951298512;SEC-BAC-CFGM-CFGS
+29009922;Instituto de Educación Secundaria;El Palo;Público;Cmo. Viejo de Vélez  s/n;Málaga;Málaga;Málaga;29018;951298521;SEC-BAC-CFGM-EE-CFGS
+29700503;Instituto de Educación Secundaria;Fernando de los Ríos;Público;C/ Ntra. Sra. de las Candelas  15;Málaga;Málaga;Málaga;29004;951298439;SEC-BAC-CFGM-EE-CFGS
+29700527;Instituto de Educación Secundaria;Jardines de Puerta Oscura;Público;C/ Mirazucena  s/n. Miraflores de los Ángeles;Málaga;Málaga;Málaga;29011;951297939;SEC-BAC-CFGM-CFGS
+29005916;Instituto de Educación Secundaria;La Rosaleda;Público;Avda. Luis Buñuel  8;Málaga;Málaga;Málaga;29011;952640035;SEC-BAC-CFGM-CFGS
+29700096;Instituto de Educación Secundaria;Litoral;Público;Avda. Los Guindos  46;Málaga;Málaga;Málaga;29004;951298400;SEC-BAC-CFGM-CFGS
+29010870;Instituto de Educación Secundaria;Mare Nostrum;Público;C/ Villanueva de Algaidas  9;Málaga;Málaga;Málaga;29004;951298446;SEC-BAC-CFGM-EE-CFGS
+29700047;Instituto de Educación Secundaria;Martín de Aldehuela;Público;C/ Llobregat  s/n. Ciudad Jardín;Málaga;Málaga;Málaga;29014;951297964;SEC-BAC-CFGM-CFGS
+29012106;Instituto de Educación Secundaria;Miguel Romero Esteo;Público;C/ Agustín Martín Carrión  s/n;Málaga;Málaga;Málaga;29006;951298668;SEC-BAC-CFGM-CFGS
+29700242;Instituto de Educación Secundaria;Núm. 1. Universidad Laboral;Público;C/ Julio Verne  6. Aptdo. de correos 9170;Málaga;Málaga;Málaga;29080;951298580;SEC-BAC-CFGM-EE-CFGS
+29005989;Instituto de Educación Secundaria;Politécnico Jesús Marín;Público;C/ Politécnico  1;Málaga;Málaga;Málaga;29007;951297914;SEC-BAC-CFGM-CFGS
+29700412;Instituto de Educación Secundaria;Portada Alta;Público;C/ Portada Alta  s/n;Málaga;Málaga;Málaga;29007;951297929;SEC-BAC-CFGM-EE-CFGS
+29010365;Instituto de Educación Secundaria;Profesor Isidoro Sánchez;Público;Otros Nuevo San Andrés. Complejo Guadaljaire;Málaga;Málaga;Málaga;29003;951293909;SEC-BAC-CFGM-CFGS
+29700400;Instituto de Educación Secundaria;Puerto de la Torre;Público;C/ Cristo de los Milagros  25;Málaga;Málaga;Málaga;29190;951297923;SEC-BAC-CFGM-EE-CFGS
+29700333;Instituto de Educación Secundaria;Santa Bárbara;Público;Avda. de Europa  128;Málaga;Málaga;Málaga;29004;951298434;SEC-BAC-CFGM-CFGS
+29005965;Instituto de Educación Secundaria;Sierra Bermeja;Público;Avda. Ramón y Cajal  113;Málaga;Málaga;Málaga;29014;951297990;SEC-BAC-CFGM-EE-CFGS
+29700722;Instituto de Educación Secundaria;Las Viñas;Público;Ctra. del Peñoncillo  s/n;Manilva;Manilva;Málaga;29692;951270714;SEC-BAC-CFGM-EE-CFGS
+29006830;Instituto de Educación Secundaria;Guadalpín;Público;Blvar. Principe Alfonso de Hohenlohe  s/n;Marbella;Marbella;Málaga;29602;951270906;SEC-BAC-CFGM-EE-CFGS
+29700126;Instituto de Educación Secundaria;Río Verde;Público;C/ Notario Luis Oliver 18;Marbella;Marbella;Málaga;29600;951270557;SEC-BAC-CFGM-CFGS
+29006854;Instituto de Educación Secundaria;Sierra Blanca;Público;Avda. Doctor Maiz Viñals  24;Marbella;Marbella;Málaga;29600;952828384;SEC-BAC-CFGM-CFGS
+29700758;Instituto de Educación Secundaria;Victoria Kent;Público;C/ Alfredo Palma  s/n;Marbella;Marbella;Málaga;29600;951270613;SEC-BAC-CFGM-CFGS
+29700023;Instituto de Educación Secundaria;Sierra de Mijas;Público;C/ Río las Pasadas  1;Mijas;Mijas;Málaga;29649;951269860;SEC-BAC-CFGM-CFGS
+29700059;Instituto de Educación Secundaria;Bezmiliana;Público;Urb. Gran Sol  s/n;Rincón de la Victoria;Rincón de la Victoria;Málaga;29730;951293832;SEC-BAC-CFGM-CFGS
+29007962;Instituto de Educación Secundaria;Martín Rivero;Público;C/ Fernando de los Ríos  1;Ronda;Ronda;Málaga;29400;952169907;SEC-BAC-CFGM-EE-CFGS
+29007998;Instituto de Educación Secundaria;Pérez de Guzmán;Público;C/ Dolores Ibarruri  3;Ronda;Ronda;Málaga;29400;697954302;SEC-BAC-CFGM-EE-CFGS
+29700035;Instituto de Educación Secundaria;Profesor Gonzalo Huesa;Público;C/ San Vicente de Paul  s/n;Ronda;Ronda;Málaga;29400;671538612;SEC-BAC-CFGM-CFGS
+29700771;Instituto de Educación Secundaria;Guadaiza;Público;C/ Juan Illesca  s/n. Urb. Fuente Nueva;San Pedro de Alcántara;Marbella;Málaga;29670;951270716;SEC-BAC-CFGM-CFGS
+29011552;Instituto de Educación Secundaria;María Zambrano;Público;C/ Cipriano Maldonado Jiménez  s/n;Torre del Mar;Vélez-Málaga;Málaga;29740;951289559;SEC-BAC-CFGM-CFGS
+29700345;Instituto de Educación Secundaria;Miraya del Mar;Público;Urb. Jardines del Rocío;Torre del Mar;Vélez-Málaga;Málaga;29740;951289990;SEC-BAC-CFGM-EE-CFGS
+29006568;Instituto de Educación Secundaria;Los Manantiales;Público;C/ Periodista Federico Alba  21;Torremolinos;Torremolinos;Málaga;29620;952387159;SEC-BAC-CFGM-CFGS
+29008681;Instituto de Educación Secundaria;Juan de la Cierva;Público;C/ Doctor Fernando Vivar  2;Vélez-Málaga;Vélez-Málaga;Málaga;29700;951289959;SEC-BAC-CFGM-CFGS
+41000284;Instituto de Educación Secundaria;Al-Guadaira;Público;Avda. 28 de Febrero  s/n;Alcalá de Guadaíra;Alcalá de Guadaíra;Sevilla;41500;955622641;SEC-BAC-CFGM-CFGS
+41000272;Instituto de Educación Secundaria;Cristóbal de Monroy;Público;Avda. de la Constitución  s/n;Alcalá de Guadaíra;Alcalá de Guadaíra;Sevilla;41500;954100911;SEC-BAC-CFGM-CFGS
+41011014;Instituto de Educación Secundaria;Profesor Tierno Galván;Público;C/ Reyes Católicos  s/n;Alcalá de Guadaíra;Alcalá de Guadaíra;Sevilla;41500;955622100;SEC-BAC-CFGM-CFGS
+41011002;Instituto de Educación Secundaria;Ilipa Magna;Público;Avda. de Andalucía  s/n;Alcalá del Río;Alcalá del Río;Sevilla;41200;955623330;SEC-BAC-CFGM-CFGS
+41000557;Instituto de Educación Secundaria;Al-Ándalus;Público;C/ Dalia  s/n;Arahal;Arahal;Sevilla;41600;955967943;SEC-BAC-CFGM-CFGS
+41000569;Instituto de Educación Secundaria;La Campiña;Público;Ctra. Sevilla-Málaga  Km 43;Arahal;Arahal;Sevilla;41600;955967850;SEC-BAC-CFGM-CFGS
+41700853;Instituto de Educación Secundaria;Jacarandá;Público;C/ Diamantino García  s/n;Brenes;Brenes;Sevilla;41310;955622585;SEC-BAC-CFGM-CFGS
+41009573;Instituto de Educación Secundaria;Camas;Público;Otros Autovía Sevilla-Gijón  3;Camas;Camas;Sevilla;41900;955622545;SEC-BAC-CFGM-CFGS
+41000880;Instituto de Educación Secundaria;Tartessos;Público;Bda. Hiconsa  s/n;Camas;Camas;Sevilla;41900;955623193;SEC-BAC-CFGM-CFGS
+41701158;Instituto de Educación Secundaria;Cantillana;Público;Bda. Pintor López Cabrera  s/n;Cantillana;Cantillana;Sevilla;41320;600141429;SEC-BAC-CFGM-EE-CFGS
+41009585;Instituto de Educación Secundaria;Arrabal;Público;C/ Bonifacio IV  s/n;Carmona;Carmona;Sevilla;41410;955649930;SEC-BAC-CFGM-CFGS
+41011026;Instituto de Educación Secundaria;Alixar;Público;Avda. de la Unidad  s/n;Castilleja de la Cuesta;Castilleja de la Cuesta;Sevilla;41950;955622566;SEC-BAC-CFGM-CFGS
+41700865;Instituto de Educación Secundaria;El Carmen;Público;C/ Santa Clara  3;Cazalla de la Sierra;Cazalla de la Sierra;Sevilla;41370;955889567;SEC-BAC-CFGM-CFGS
+41001471;Instituto de Educación Secundaria;Caura;Público;Cerro De San Juan  s/n;Coria del Río;Coria del Río;Sevilla;41100;955623228;SEC-BAC-CFGM-EE-CFGS
+41001461;Instituto de Educación Secundaria;Rodrigo Caro;Público;C/ Cantalobos  s/n;Coria del Río;Coria del Río;Sevilla;41100;955622105;SEC-BAC-CFGM-CFGS
+41011038;Instituto de Educación Secundaria;Gonzalo Nazareno;Público;C/ Las Botijas  10;Dos Hermanas;Dos Hermanas;Sevilla;41702;955839911;SEC-BAC-CFGM-CFGS
+41700181;Instituto de Educación Secundaria;Hermanos Machado;Público;Avda. Vía Flaminia  s/n;Dos Hermanas;Dos Hermanas;Sevilla;41089;955622418;SEC-BAC-CFGM-CFGS
+41700361;Instituto de Educación Secundaria;Torre de los Herberos;Público;Avda. de Andalucía  s/n;Dos Hermanas;Dos Hermanas;Sevilla;41700;955839737;SEC-BAC-CFGM-EE-CFGS
+41700877;Instituto de Educación Secundaria;Vistazul;Público;C/ Gabriel García Márquez  s/n. Apdo. correos 460;Dos Hermanas;Dos Hermanas;Sevilla;41700;955839711;SEC-BAC-CFGM-CFGS
+41001941;Instituto de Educación Secundaria;Luis Vélez de Guevara;Público;C/ Tomás Beviá  1;Écija;Écija;Sevilla;41400;955879918;SEC-BAC-CFGM-EE-CFGS
+41001938;Instituto de Educación Secundaria;San Fulgencio;Público;Avda. de Andalucía  8;Écija;Écija;Sevilla;41400;955879909;SEC-BAC-CFGM-CFGS
+41701079;Instituto de Educación Secundaria;Flavio Irnitano;Público;C/ Fray Antonio Martín Povea  s/n;El Saucejo;El Saucejo;Sevilla;41650;954822972;SEC-BAC-CFGM-CFGS
+41008970;Instituto de Educación Secundaria;Aguilar y Cano;Público;C/ Camino del Cahiz  36;Estepa;Estepa;Sevilla;41560;954822926;SEC-BAC-CFGM-CFGS
+41002013;Instituto de Educación Secundaria;Ostippo;Público;Ctra. de Becerrero  3;Estepa;Estepa;Sevilla;41560;600142317;SEC-BAC-CFGM-CFGS
+41701286;Instituto de Educación Secundaria;El Majuelo;Público;C/ Enrique Granados  43;Gines;Gines;Sevilla;41960;955622592;SEC-BAC-CFGM-CFGS
+41700348;Instituto de Educación Secundaria;Alcaria;Público;Avda. Pozo Concejo  s/n;La Puebla del Río;La Puebla del Río;Sevilla;41130;955622940;SEC-BAC-CFGM-CFGS
+41701377;Instituto de Educación Secundaria;Antonio de Ulloa;Público;Avda. de la Ermita  s/n;La Rinconada;La Rinconada;Sevilla;41309;955622611;SEC-BAC-CFGM-CFGS
+41700889;Instituto de Educación Secundaria;Delgado Brackembury;Público;Avda. Jesús Nazareno  s/n;Las Cabezas de San Juan;Las Cabezas de San Juan;Sevilla;41730;671538212;SEC-BAC-CFGM-EE-CFGS
+41009822;Instituto de Educación Secundaria;Bajo Guadalquivir;Público;Avda. Doctor José Viel  3;Lebrija;Lebrija;Sevilla;41740;955839730;SEC-BAC-CFGM-EE-CFGS
+41002451;Instituto de Educación Secundaria;Axati;Público;C/ San Juan Bosco  s/n;Lora del Río;Lora del Río;Sevilla;41440;638145;SEC-BAC-CFGM-CFGS
+41003182;Instituto de Educación Secundaria;Al-Mudeyne;Público;C/ María Auxiliadora  2;Los Palacios y Villafranca;Los Palacios y Villafranca;Sevilla;41720;955839560;SEC-BAC-CFGM-CFGS
+41700351;Instituto de Educación Secundaria;Atenea;Público;C/ Ítaca  2;Mairena del Aljarafe;Mairena del Aljarafe;Sevilla;41927;955622578;SEC-BAC-CFGM-CFGS
+41700099;Instituto de Educación Secundaria;Juan de Mairena;Público;Avda. de las Américas  s/n;Mairena del Aljarafe;Mairena del Aljarafe;Sevilla;41927;955623305;SEC-BAC-CFGM-CFGS
+41008507;Instituto de Educación Secundaria;López de Arenas;Público;C/ Sevilla  s/n;Marchena;Marchena;Sevilla;41620;955967944;SEC-BAC-CFGM-EE-CFGS
+41002955;Instituto de Educación Secundaria;Fray Bartolomé de las Casas;Público;Plaza de la Alameda  s/n;Morón de la Frontera;Morón de la Frontera;Sevilla;41530;955859519;SEC-BAC-CFGM-EE-CFGS
+41003066;Instituto de Educación Secundaria;Francisco Rodríguez Marín;Público;Paseo San Arcadio  s/n;Osuna;Osuna;Sevilla;41640;954822717;SEC-BAC-CFGM-EE-CFGS
+41009123;Instituto de Educación Secundaria;Sierra Sur;Público;C/ San José de Calasanz  s/n;Osuna;Osuna;Sevilla;41640;954822856;SEC-BAC-CFGM-CFGS
+41701766;Instituto de Educación Secundaria;Carmen Laffón;Público;C/ Alcalde Pepe Iglesias  s/n;San José de la Rinconada;La Rinconada;Sevilla;41300;955623388;SEC-BAC-CFGM-CFGS
+41003741;Instituto de Educación Secundaria;Miguel de Mañara;Público;C/ Cultura  s/n. (Aptdo. de correos 103);San José de la Rinconada;La Rinconada;Sevilla;41300;955622336;SEC-BAC-CFGM-CFGS
+41003765;Instituto de Educación Secundaria;San José de la Rinconada;Público;C/ Cultura  43;San José de la Rinconada;La Rinconada;Sevilla;41300;955622342;SEC-BAC-CFGM-CFGS
+41700828;Instituto de Educación Secundaria;Severo Ochoa;Público;C/ Severo Ochoa  s/n;San Juan de Aznalfarache;San Juan de Aznalfarache;Sevilla;41920;955624548;SEC-BAC-CFGM-CFGS
+41701778;Instituto de Educación Secundaria;Lucus Solis;Público;C/ Juan Antonio Santero  2;Sanlúcar la Mayor;Sanlúcar la Mayor;Sevilla;41800;955622968;SEC-BAC-CFGM-EE-CFGS
+41007114;Centro de Convenio;Híspalis;Público;C/ Alcalde Manuel del Valle  s/n;Sevilla;Sevilla;Sevilla;41008;954551832;SEC-BAC-CFGM-EE-CFGS
+41009858;Instituto de Educación Secundaria;Albert Einstein;Público;C/ Salineros  s/n;Sevilla;Sevilla;Sevilla;41008;955623746;SEC-BAC-CFGM-CFGS
+41700427;Instituto de Educación Secundaria;Azahar;Público;Avda. Alcalde Manuel del Valle  69;Sevilla;Sevilla;Sevilla;41008;955622818;SEC-BAC-CFGM-CFGS
+41009871;Instituto de Educación Secundaria;Beatriz de Suabia;Público;C/ Beatriz de Suabia  s/n;Sevilla;Sevilla;Sevilla;41005;955623760;SEC-BAC-CFGM-CFGS
+41700415;Instituto de Educación Secundaria;Ciudad Jardín;Público;C/ Canal  s/n;Sevilla;Sevilla;Sevilla;41005;955622222;SEC-BAC-CFGM-CFGS
+41011041;Instituto de Educación Secundaria;Federico Mayor Zaragoza;Público;C/ Camino del Silo  4;Sevilla;Sevilla;Sevilla;41012;955623795;SEC-BAC-CFGM-CFGS
+41006912;Instituto de Educación Secundaria;Gustavo Adolfo Bécquer;Público;C/ López de Gomara  s/n;Sevilla;Sevilla;Sevilla;41010;955622825;SEC-BAC-CFGM-CFGS
+41700403;Instituto de Educación Secundaria;Isbilya;Público;C/ Esperanza de la Trinidad  7;Sevilla;Sevilla;Sevilla;41003;955623851;SEC-BAC-CFGM-EE-CFGS
+41010541;Instituto de Educación Secundaria;Joaquín Turina;Público;Avda. Kansas City  s/n;Sevilla;Sevilla;Sevilla;41007;955623775;SEC-BAC-CFGM-CFGS
+41700117;Instituto de Educación Secundaria;Llanes;Público;C/ Escultor Francisco Buiza  s/n;Sevilla;Sevilla;Sevilla;41008;671534960;SEC-BAC-CFGM-CFGS
+41006948;Instituto de Educación Secundaria;Martínez Montañés;Público;C/ Fernández de Ribera  s/n;Sevilla;Sevilla;Sevilla;41005;955623877;SEC-BAC-CFGM-CFGS
+41011117;Instituto de Educación Secundaria;Miguel de Cervantes;Público;C/ Manzana  s/n;Sevilla;Sevilla;Sevilla;41009;955623806;SEC-BAC-CFGM-EE-CFGS
+41011129;Instituto de Educación Secundaria;Pablo Picasso;Público;Avda. Ontur  s/n;Sevilla;Sevilla;Sevilla;41019;955624555;SEC-BAC-CFGM-EE-CFGS
+41007451;Instituto de Educación Secundaria;Pino Montano;Público;Otros Núclo Residencial  Las Almenas  19;Sevilla;Sevilla;Sevilla;41015;955623886;SEC-BAC-CFGM-CFGS
+41009056;Instituto de Educación Secundaria;Polígono Sur;Público;C/ Esclava del Señor  2;Sevilla;Sevilla;Sevilla;41013;955622844;SEC-BAC-CFGM-CFGS
+41700178;Instituto de Educación Secundaria;Punta del Verde;Público;C/ Barrionuevo  4;Sevilla;Sevilla;Sevilla;41012;955623824;SEC-BAC-CFGM-EE-CFGS
+41701109;Instituto de Educación Secundaria;Ramón del Valle Inclán;Público;C/ Doctor Palomares García  2;Sevilla;Sevilla;Sevilla;41020;955622848;SEC-BAC-CFGM-CFGS
+41010757;Instituto de Educación Secundaria;San Jerónimo;Público;C/ Corvina  17;Sevilla;Sevilla;Sevilla;41015;955623781;SEC-BAC-CFGM-CFGS
+41008532;Instituto de Educación Secundaria;San Pablo;Público;Avda. Éfeso  s/n;Sevilla;Sevilla;Sevilla;41007;955623431;SEC-BAC-CFGM-EE-CFGS
+41700373;Instituto de Educación Secundaria;Santa Aurelia;Público;C/ Amor  s/n;Sevilla;Sevilla;Sevilla;41006;955623837;SEC-BAC-CFGM-CFGS
+41009883;Instituto de Educación Secundaria;Torreblanca;Público;C/ Torregrosa  85;Sevilla;Sevilla;Sevilla;41016;955623767;SEC-BAC-CFGM-CFGS
+41701183;Instituto de Educación Secundaria;Néstor Almendros;Público;C/ Néstor Almendros  s/n;Tomares;Tomares;Sevilla;41940;955622151;SEC-BAC-CFGM-CFGS
+41700154;Instituto de Educación Secundaria;Ponce de León;Público;C/ Constelación Pavo Real  s/n;Utrera;Utrera;Sevilla;41710;955838924;SEC-BAC-CFGM-EE-CFGS
+41007898;Instituto de Educación Secundaria;Ruiz Gijón;Público;Paseo de Consolación  1;Utrera;Utrera;Sevilla;41710;955839573;SEC-BAC-CFGM-CFGS
+41007904;Instituto de Educación Secundaria;Virgen de Consolación;Público;Paseo de Consolación  s/n;Utrera;Utrera;Sevilla;41710;955839595;SEC-BAC-CFGM-EE-CFGS
